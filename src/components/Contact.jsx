@@ -15,7 +15,7 @@ export default function Contact() {
       </p>
       <div className="contact-links">
         <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rAngelobardoquillo@gmail.com" target="_blank" rel="noopener noreferrer" className="contact-email">rAngelobardoquillo@gmail.com</a>
-        <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="contact-linkedin" title="Add your LinkedIn URL in Contact.jsx">
+        <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="contact-linkedin" title="https://www.linkedin.com/in/ryan-angelo-bardoquillo-a78803332/">
           <LinkedInIcon />
           LinkedIn
         </a>
